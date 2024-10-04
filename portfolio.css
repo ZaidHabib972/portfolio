@@ -1,0 +1,71 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: centre;
+    padding: auto;
+    padding-left: 10px;
+    height: 60px;
+}
+ul{
+    list-style: none;
+}
+#nav{
+    float: left;
+    margin-left: 100px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+#one{
+    text-align: center;
+    height: 500px;
+    background-image:url(abstract-black-lines-geometric-background_677411-2748.avif);
+    color: white;
+    margin-top: 10px;
+}
+#mainimg{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    margin-top: 70px;
+}
+p{
+    font-size: 25px;
+}
+footer{
+    text-align: center;
+    color: white;
+    height: 120px;
+    background-color: black;
+    width: 100%;
+    padding: 0px 10px 10px 0px;
+    
+   
+}
+#two{
+    margin-top: 50px;
+    text-align: center;
+
+}
+h1{
+    margin-top: 200px;
+}
+img{ 
+   height: 200px;
+   margin-top: 50px;
+
+}
+#services{
+    margin-top: 50px;
+}
+#social,#social1{
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-left: 50px;
+
+}
+button{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(24, 243, 24);
+}

@@ -8,16 +8,16 @@ header{
 }
 ul{
     list-style: none;
+    text-align: center;
 }
 #nav{
     float: left;
-    margin-left: 100px;
+    margin-left: 23px;
     font-size: 20px;
     margin-top: 15px;
 }
 #one{
     text-align: center;
-    height: 500px;
     background-image:url(abstract-black-lines-geometric-background_677411-2748.avif);
     color: white;
     margin-top: 10px;
@@ -26,7 +26,8 @@ ul{
     border-radius: 50%;
     height: 400px;
     width: 400px;
-    margin-top: 70px;
+    margin-top: 30px;
+    border: solid;
 }
 p{
     font-size: 25px;
@@ -36,10 +37,9 @@ footer{
     color: white;
     height: 120px;
     background-color: black;
-    width: 100%;
-    padding: 0px 10px 10px 0px;
+    justify-content: center;
     
-   
+    
 }
 #two{
     margin-top: 50px;
@@ -57,15 +57,18 @@ img{
 #services{
     margin-top: 50px;
 }
-#social,#social1{
+#social1{
     height: 40px;
     width: 40px;
-    float: left;
     margin-left: 50px;
-
 }
 button{
     height: 50px;
     width: 200px;
     background-color: rgb(24, 243, 24);
+}
+li{
+    display: inline;
+  list-style:none;
+
 }
